@@ -69,7 +69,7 @@ Chapter 5: {'neg': 0.23, 'neu': 0.66, 'pos': 0.11, 'compound': -0.41}
 ## Date vs. Positivity**
 ![img.png](img.png)
 ## Date vs. Negativity**
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
 ---
 
